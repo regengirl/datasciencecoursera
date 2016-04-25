@@ -1,2 +1,2 @@
 # datasciencecoursera
-Practice Repo for Coursera Datascience Tools
+Practice Repo for Coursera Data Scientist's Toolbox
