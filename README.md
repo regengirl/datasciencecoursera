@@ -1,2 +1,2 @@
 # datasciencecoursera
-Practice Repo for Coursera Data Scientist's Toolbox
+Learning how to setup GitHub Repository for Data Scientist's Toolbox
